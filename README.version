@@ -1,4 +1,3 @@
-URL: http://llvm.org/git/libcxxabi.git
-Version: d8093df5ebe5d755c810980d403af20b32deea5f
-BugComponent: 117395
-Owners: danalbert, srhines, android-llvm
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1539001b4761160b10a19297557cead4f30cfb6b59d81d7f296fa97939bf16c
+size 151
